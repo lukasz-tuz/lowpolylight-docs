@@ -1,2 +1,3 @@
-# hexalight-docs
-Docs for the hexalight project.
+# Lowpoly Lights - Docs
+
+Docs for the lowpolylight project.
